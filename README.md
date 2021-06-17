@@ -1,6 +1,5 @@
 **Proyectos de Cobol BATCH/DB2/CICS**
 
- Prácticas realizadas durante el curso de COBOL+ realizado por IT Patagonia.
 
  **Descripción de programas**:
 
